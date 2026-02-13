@@ -138,8 +138,21 @@ a {
         height: 80%;
         width: 98%;
     }
+
     .gif {
         height: 90%;
         width: 80%;
     }
+
+    #text {
+        font-size: 5vw;
+    }
 }
+
+#text {
+    font-size: 1.6rem;
+    text-align: center;
+    padding: 0 10px;
+  
+}
+
